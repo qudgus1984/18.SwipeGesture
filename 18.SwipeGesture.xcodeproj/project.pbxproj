@@ -10,10 +10,10 @@
 		2FF2143B281A82ED00D4E1D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF2143A281A82ED00D4E1D3 /* AppDelegate.swift */; };
 		2FF2143D281A82ED00D4E1D3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF2143C281A82ED00D4E1D3 /* SceneDelegate.swift */; };
 		2FF2143F281A82ED00D4E1D3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF2143E281A82ED00D4E1D3 /* ViewController.swift */; };
-		2FF21442281A82ED00D4E1D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FF21440281A82ED00D4E1D3 /* Main.storyboard */; };
 		2FF21444281A82EE00D4E1D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FF21443281A82EE00D4E1D3 /* Assets.xcassets */; };
 		2FF21447281A82EE00D4E1D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FF21445281A82EE00D4E1D3 /* LaunchScreen.storyboard */; };
 		2FF2144F281A9E7500D4E1D3 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 2FF2144E281A9E7500D4E1D3 /* images */; };
+		2FF21451281AC55900D4E1D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FF21440281A82ED00D4E1D3 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -131,7 +131,7 @@
 				2FF2144F281A9E7500D4E1D3 /* images in Resources */,
 				2FF21447281A82EE00D4E1D3 /* LaunchScreen.storyboard in Resources */,
 				2FF21444281A82EE00D4E1D3 /* Assets.xcassets in Resources */,
-				2FF21442281A82ED00D4E1D3 /* Main.storyboard in Resources */,
+				2FF21451281AC55900D4E1D3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
